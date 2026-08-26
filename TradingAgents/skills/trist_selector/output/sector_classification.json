@@ -1,0 +1,1761 @@
+{
+  "医药": [
+    {
+      "ticker": "600062",
+      "name": "华润双鹤",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600079",
+      "name": "ST人福",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600080",
+      "name": "ST金花",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600085",
+      "name": "同仁堂",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600129",
+      "name": "太极集团",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600161",
+      "name": "天坛生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600195",
+      "name": "中牧股份",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600196",
+      "name": "复星医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600201",
+      "name": "生物股份",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600211",
+      "name": "西藏药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600216",
+      "name": "浙江医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600222",
+      "name": "太龙药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600252",
+      "name": "中恒集团",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600267",
+      "name": "海正药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600276",
+      "name": "恒瑞医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600285",
+      "name": "羚锐制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600329",
+      "name": "达仁堂",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600332",
+      "name": "白云山",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600351",
+      "name": "亚宝药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600380",
+      "name": "健康元",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600420",
+      "name": "国药现代",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600422",
+      "name": "昆药集团",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600436",
+      "name": "片仔癀",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600479",
+      "name": "千金药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600488",
+      "name": "津药药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600513",
+      "name": "联环药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600518",
+      "name": "康美药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600521",
+      "name": "华海药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600535",
+      "name": "天士力",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600557",
+      "name": "康缘药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600566",
+      "name": "济川药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600572",
+      "name": "康恩贝",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600594",
+      "name": "益佰制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600613",
+      "name": "神奇制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600624",
+      "name": "ST复华",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600645",
+      "name": "中源协和",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600664",
+      "name": "哈药股份",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600671",
+      "name": "天目药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600682",
+      "name": "南京新百",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600750",
+      "name": "华润江中",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600771",
+      "name": "广誉远",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600774",
+      "name": "汉商集团",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600789",
+      "name": "鲁抗医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600807",
+      "name": "济高发展",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600812",
+      "name": "华北制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600851",
+      "name": "海欣股份",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600867",
+      "name": "通化东宝",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "600993",
+      "name": "马应龙",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "601089",
+      "name": "福元医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "601515",
+      "name": "衢州东峰",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603087",
+      "name": "甘李药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603139",
+      "name": "康惠股份",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603168",
+      "name": "莎普爱思",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603207",
+      "name": "小方制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603229",
+      "name": "奥翔药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603301",
+      "name": "振德医疗",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603367",
+      "name": "辰欣药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603387",
+      "name": "基蛋生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603392",
+      "name": "万泰生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603439",
+      "name": "三力制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603456",
+      "name": "九洲药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603520",
+      "name": "司太立",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603538",
+      "name": "美诺华",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603566",
+      "name": "普莱柯",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603567",
+      "name": "珍宝岛",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603590",
+      "name": "康辰药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603658",
+      "name": "安图生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603669",
+      "name": "灵康药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603676",
+      "name": "卫信康",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603707",
+      "name": "健友股份",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603718",
+      "name": "*ST海利",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603811",
+      "name": "诚意药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603858",
+      "name": "步长制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603880",
+      "name": "南卫股份",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603896",
+      "name": "寿仙谷",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603976",
+      "name": "正川股份",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "603998",
+      "name": "方盛制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "605116",
+      "name": "奥锐特",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "605177",
+      "name": "东亚药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "605199",
+      "name": "ST葫芦娃",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "605507",
+      "name": "国邦医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688062",
+      "name": "迈威生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688067",
+      "name": "爱威科技",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688068",
+      "name": "热景生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688075",
+      "name": "安旭生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688076",
+      "name": "ST诺泰",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688091",
+      "name": "上海谊众",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688098",
+      "name": "申联生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688117",
+      "name": "圣诺生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688136",
+      "name": "科兴制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688151",
+      "name": "华强科技",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688163",
+      "name": "赛伦生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688166",
+      "name": "博瑞医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688176",
+      "name": "亚虹医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688177",
+      "name": "百奥泰",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688180",
+      "name": "君实生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688185",
+      "name": "康希诺",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688189",
+      "name": "ST南新",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688192",
+      "name": "迪哲医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688193",
+      "name": "仁度生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688197",
+      "name": "首药控股",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688217",
+      "name": "睿昂基因",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688221",
+      "name": "前沿生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688235",
+      "name": "百济神州",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688247",
+      "name": "宣泰医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688253",
+      "name": "英诺特",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688266",
+      "name": "泽璟制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688276",
+      "name": "百克生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688278",
+      "name": "特宝生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688289",
+      "name": "圣湘生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688298",
+      "name": "东方生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688302",
+      "name": "海创药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688317",
+      "name": "之江生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688319",
+      "name": "欧林生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688321",
+      "name": "微芯生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688331",
+      "name": "荣昌生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688336",
+      "name": "三生国健",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688338",
+      "name": "赛科希德",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688373",
+      "name": "盟科药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688382",
+      "name": "益方生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688393",
+      "name": "安必平",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688399",
+      "name": "硕世生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688426",
+      "name": "康为世纪",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688428",
+      "name": "诺诚健华",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688443",
+      "name": "智翔金泰",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688468",
+      "name": "科美诊断",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688488",
+      "name": "艾迪药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688505",
+      "name": "复旦张江",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688506",
+      "name": "百利天恒",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688513",
+      "name": "苑东生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688520",
+      "name": "神州细胞",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688526",
+      "name": "科前生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688553",
+      "name": "汇宇制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688566",
+      "name": "吉贝尔",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688575",
+      "name": "亚辉龙",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688578",
+      "name": "艾力斯",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688606",
+      "name": "奥泰生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688656",
+      "name": "浩欧博",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688658",
+      "name": "悦康药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688670",
+      "name": "金迪克",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688687",
+      "name": "凯因科技",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688739",
+      "name": "成大生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688759",
+      "name": "必贝特",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688765",
+      "name": "禾元生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688767",
+      "name": "博拓生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688799",
+      "name": "华纳药厂",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "688806",
+      "name": "泰诺麦博",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000153",
+      "name": "丰原药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000403",
+      "name": "派林生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000423",
+      "name": "东阿阿胶",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000513",
+      "name": "丽珠集团",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000518",
+      "name": "四环生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000534",
+      "name": "万泽股份",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000538",
+      "name": "云南白药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000566",
+      "name": "海南海药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000590",
+      "name": "古汉医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000597",
+      "name": "东北制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000623",
+      "name": "吉林敖东",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000650",
+      "name": "仁和药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000661",
+      "name": "长春高新",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000739",
+      "name": "普洛药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000756",
+      "name": "新华制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000766",
+      "name": "通化金马",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000788",
+      "name": "北大医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000790",
+      "name": "华神科技",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000813",
+      "name": "德展健康",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000908",
+      "name": "石药景峰",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000915",
+      "name": "华特达因",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000919",
+      "name": "金陵药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000931",
+      "name": "中关村",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000952",
+      "name": "广济药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000953",
+      "name": "中哲精化",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000989",
+      "name": "九芝堂",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "000999",
+      "name": "华润三九",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "001367",
+      "name": "海森药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002001",
+      "name": "新和成",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002007",
+      "name": "华兰生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002019",
+      "name": "亿帆医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002020",
+      "name": "京新药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002022",
+      "name": "科华生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002030",
+      "name": "达安基因",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002038",
+      "name": "双鹭药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002082",
+      "name": "ST万邦",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002099",
+      "name": "海翔药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002102",
+      "name": "ST能特",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002107",
+      "name": "沃华医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002166",
+      "name": "莱茵生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002198",
+      "name": "ST嘉应",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002252",
+      "name": "上海莱士",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002262",
+      "name": "恩华药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002275",
+      "name": "桂林三金",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002287",
+      "name": "奇正藏药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002294",
+      "name": "信立泰",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002317",
+      "name": "众生药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002332",
+      "name": "仙琚制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002349",
+      "name": "精华制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002365",
+      "name": "永安药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002370",
+      "name": "亚太药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002393",
+      "name": "力生制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002399",
+      "name": "海普瑞",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002412",
+      "name": "汉森制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002422",
+      "name": "科伦药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002424",
+      "name": "ST百灵",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002437",
+      "name": "誉衡药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002550",
+      "name": "千红制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002562",
+      "name": "兄弟科技",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002566",
+      "name": "益盛药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002581",
+      "name": "*ST未名",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002603",
+      "name": "以岭药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002644",
+      "name": "佛慈制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002653",
+      "name": "海思科",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002675",
+      "name": "东诚药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002688",
+      "name": "金河生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002693",
+      "name": "双成药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002728",
+      "name": "特一药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002737",
+      "name": "葵花药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002755",
+      "name": "奥赛康",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002773",
+      "name": "康弘药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002793",
+      "name": "罗欣药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002817",
+      "name": "黄山胶囊",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002821",
+      "name": "凯莱英",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002826",
+      "name": "易明医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002864",
+      "name": "盘龙药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002868",
+      "name": "绿康生化",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002872",
+      "name": "ST天圣",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002873",
+      "name": "新天药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002880",
+      "name": "卫光生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002900",
+      "name": "哈三联",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002907",
+      "name": "华森制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002923",
+      "name": "润都股份",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002932",
+      "name": "*ST明德",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002940",
+      "name": "昂利康",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "002950",
+      "name": "奥美医疗",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "003020",
+      "name": "立方制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300006",
+      "name": "莱美药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300009",
+      "name": "安科生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300016",
+      "name": "北陆药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300026",
+      "name": "红日药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300039",
+      "name": "上海凯宝",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300086",
+      "name": "康芝药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300110",
+      "name": "华仁药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300111",
+      "name": "向日葵",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300119",
+      "name": "瑞普生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300122",
+      "name": "智飞生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300142",
+      "name": "沃森生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300147",
+      "name": "*ST香雪",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300158",
+      "name": "振东制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300181",
+      "name": "佐力药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300194",
+      "name": "福安药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300199",
+      "name": "翰宇药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300204",
+      "name": "舒泰神",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300233",
+      "name": "金城医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300239",
+      "name": "东宝生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300254",
+      "name": "仟源医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300255",
+      "name": "常山药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300267",
+      "name": "尔康制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300289",
+      "name": "利德曼",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300294",
+      "name": "博雅生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300357",
+      "name": "我武生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300363",
+      "name": "博腾股份",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300381",
+      "name": "溢多利",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300401",
+      "name": "花园生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300406",
+      "name": "九强生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300434",
+      "name": "金石亚药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300436",
+      "name": "广生堂",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300439",
+      "name": "美康生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300452",
+      "name": "山河药辅",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300463",
+      "name": "迈克生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300482",
+      "name": "万孚生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300485",
+      "name": "赛升药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300497",
+      "name": "富祥股份",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300501",
+      "name": "海顺新材",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300519",
+      "name": "新光药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300534",
+      "name": "陇神戎发",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300558",
+      "name": "贝达药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300573",
+      "name": "兴齐眼药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300583",
+      "name": "赛托生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300584",
+      "name": "海辰药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300601",
+      "name": "康泰生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300636",
+      "name": "同和药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300639",
+      "name": "凯普生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300642",
+      "name": "透景生命",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300683",
+      "name": "海特生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300685",
+      "name": "艾德生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300702",
+      "name": "天宇股份",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300705",
+      "name": "九典制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300723",
+      "name": "一品红",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300832",
+      "name": "新产业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300841",
+      "name": "康华生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300871",
+      "name": "回盛生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300878",
+      "name": "维康药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300942",
+      "name": "易瑞生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "300966",
+      "name": "共同药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301075",
+      "name": "多瑞医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301089",
+      "name": "拓新药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301093",
+      "name": "华兰股份",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301111",
+      "name": "粤万年青",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301130",
+      "name": "西点药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301201",
+      "name": "诚达药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301207",
+      "name": "华兰疫苗",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301211",
+      "name": "亨迪药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301246",
+      "name": "宏源药业",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301258",
+      "name": "富士莱",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301277",
+      "name": "新天地",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301281",
+      "name": "科源制药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301301",
+      "name": "川宁生物",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301331",
+      "name": "恩威医药",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301507",
+      "name": "民生健康",
+      "industry": "C27医药制造业"
+    },
+    {
+      "ticker": "301509",
+      "name": "金凯生科",
+      "industry": "C27医药制造业"
+    }
+  ],
+  "煤炭": [
+    {
+      "ticker": "600121",
+      "name": "郑州煤电",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "600123",
+      "name": "兰花科创",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "600188",
+      "name": "兖矿能源",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "600348",
+      "name": "华阳股份",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "600395",
+      "name": "盘江股份",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "600403",
+      "name": "大有能源",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "600506",
+      "name": "统一股份",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "600508",
+      "name": "上海能源",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "600546",
+      "name": "山煤国际",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "600688",
+      "name": "上海石化",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "600740",
+      "name": "山西焦化",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "600758",
+      "name": "辽宁能源",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "600792",
+      "name": "云煤能源",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "600925",
+      "name": "苏能股份",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "600971",
+      "name": "恒源煤电",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "600985",
+      "name": "淮北矿业",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "600997",
+      "name": "开滦股份",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "601001",
+      "name": "晋控煤业",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "601011",
+      "name": "宝泰隆",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "601015",
+      "name": "陕西黑猫",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "601088",
+      "name": "中国神华",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "601101",
+      "name": "昊华能源",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "601225",
+      "name": "陕西煤业",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "601666",
+      "name": "平煤股份",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "601699",
+      "name": "潞安环能",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "601898",
+      "name": "中煤能源",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "601918",
+      "name": "新集能源",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "603351",
+      "name": "威尔药业",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "603798",
+      "name": "康普顿",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "603822",
+      "name": "ST嘉澳",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "000059",
+      "name": "华锦股份",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "000552",
+      "name": "甘肃能化",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "000571",
+      "name": "新大洲A",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "000723",
+      "name": "美锦能源",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "000819",
+      "name": "岳阳兴长",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "000937",
+      "name": "冀中能源",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "000983",
+      "name": "山西焦煤",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "002128",
+      "name": "电投能源",
+      "industry": "B06煤炭开采和洗选业"
+    },
+    {
+      "ticker": "002377",
+      "name": "国创高新",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "002778",
+      "name": "中晟高科",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "300135",
+      "name": "宝利国际",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    },
+    {
+      "ticker": "300839",
+      "name": "博汇股份",
+      "industry": "C25石油、煤炭及其他燃料加工业"
+    }
+  ]
+}

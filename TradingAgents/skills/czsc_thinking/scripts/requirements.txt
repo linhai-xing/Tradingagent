@@ -1,0 +1,8 @@
+# Dependencies for CZSC analysis scripts
+czsc>=0.9.0
+baostock>=1.0.0
+akshare>=1.0.0
+pandas>=1.3.0
+
+# Tushare（可选，仅当前两者失败时作为兜底）
+# tushare>=1.2.0

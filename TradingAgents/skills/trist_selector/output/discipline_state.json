@@ -1,0 +1,8 @@
+{
+  "stop_loss_today": true,
+  "last_trade_loss_pct": -0.103,
+  "last_trade_close_date": "2026-07-31",
+  "cooldown_until_date": "2026-08-03",
+  "today_date": "2026-08-03",
+  "stop_loss_date": "2026-08-03"
+}

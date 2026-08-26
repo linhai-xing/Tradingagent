@@ -1,0 +1,25 @@
+{
+  "scan_date": "2026-07-27",
+  "sector": "power",
+  "summary": {
+    "passed": 2,
+    "below": 8,
+    "vetoed": 7
+  },
+  "top5": [
+    {
+      "ticker": "002052",
+      "name": "同洲电子",
+      "score": 54,
+      "price": 8.57,
+      "position": "observe"
+    },
+    {
+      "ticker": "601567",
+      "name": "三星电气",
+      "score": 54,
+      "price": 15.18,
+      "position": "observe"
+    }
+  ]
+}

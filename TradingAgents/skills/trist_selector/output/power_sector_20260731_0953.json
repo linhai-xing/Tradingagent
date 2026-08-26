@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-31",
+  "sector": "电力(火电+水电+核电+绿电+电网)",
+  "pool_size": 35,
+  "cached": 34,
+  "scored": 30,
+  "passed": 0,
+  "vetoed": 30,
+  "rankings": [],
+  "focus_600396": {
+    "ticker": "600396",
+    "name": "华电辽能",
+    "score": 0,
+    "position": 0
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "date": "2026-06-26T17:19:56.412501",
+  "top10": [
+    {
+      "rank": 1,
+      "ticker": "600601",
+      "name": "方正科技",
+      "price": 14.16,
+      "score": 155,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": true,
+        "B5_earnings": false,
+        "B6_weak_to_strong": true,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 2,
+      "ticker": "000620",
+      "name": "盈新发展",
+      "price": 3.11,
+      "score": 145,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": true,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "MA5支撑确认"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 3,
+      "ticker": "000100",
+      "name": "TCL科技",
+      "price": 5.34,
+      "score": 135,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "MA5支撑确认",
+        "放量突破",
+        "强势突破"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 4,
+      "ticker": "000636",
+      "name": "风华高科",
+      "price": 79.62,
+      "score": 125,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": false,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "放量突破"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 5,
+      "ticker": "603290",
+      "name": "斯达半导",
+      "price": 138.22,
+      "score": 120,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": false,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": true,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 6,
+      "ticker": "000969",
+      "name": "安泰科技",
+      "price": 26.53,
+      "score": 120,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": false,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": true,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "MA5支撑确认"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 7,
+      "ticker": "301183",
+      "name": "东田微",
+      "price": 260.05,
+      "score": 120,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": false,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": true,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 8,
+      "ticker": "002916",
+      "name": "深南电路",
+      "price": 455.0,
+      "score": 120,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": false,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": true,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "尾盘缩量企稳",
+        "强势突破"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 9,
+      "ticker": "002272",
+      "name": "川润股份",
+      "price": 23.43,
+      "score": 110,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": false,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "MA5支撑确认"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 10,
+      "ticker": "002937",
+      "name": "兴瑞科技",
+      "price": 42.92,
+      "score": 100,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": false,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": false,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "尾盘缩量企稳"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    }
+  ],
+  "stats": {
+    "candidates": 210,
+    "scored": 208,
+    "passed": 63
+  }
+}

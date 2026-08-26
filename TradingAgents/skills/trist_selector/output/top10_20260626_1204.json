@@ -1,0 +1,348 @@
+{
+  "date": "2026-06-26T12:04:08.011476",
+  "top10": [
+    {
+      "rank": 1,
+      "ticker": "399360",
+      "name": "国证新硬件产业指数",
+      "price": 8759.8302,
+      "score": 145,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": true,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "MA5支撑确认"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 2,
+      "ticker": "399671",
+      "name": "深证防御行业50指数",
+      "price": 11656.7523,
+      "score": 145,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": true,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 3,
+      "ticker": "399001",
+      "name": "深证成份指数(价格)",
+      "price": 16344.0829,
+      "score": 135,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "MA5支撑确认"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 4,
+      "ticker": "399002",
+      "name": "深证成份指数(收益)",
+      "price": 22075.7214,
+      "score": 135,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "MA5支撑确认"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 5,
+      "ticker": "399004",
+      "name": "深证100指数(收益)",
+      "price": 10061.3086,
+      "score": 135,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "MA5支撑确认"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 6,
+      "ticker": "399005",
+      "name": "中小企业100指数",
+      "price": 9800.8597,
+      "score": 135,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "MA5支撑确认"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 7,
+      "ticker": "399006",
+      "name": "创业板指数(价格)",
+      "price": 4371.9891,
+      "score": 135,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "MA5支撑确认"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 8,
+      "ticker": "399007",
+      "name": "深证300价格",
+      "price": 6887.0108,
+      "score": 135,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "MA5支撑确认"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 9,
+      "ticker": "399008",
+      "name": "中小企业300指数",
+      "price": 1900.5365,
+      "score": 135,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "MA5支撑确认"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 10,
+      "ticker": "399009",
+      "name": "深证200指数",
+      "price": 6437.2853,
+      "score": 135,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "MA5支撑确认"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    }
+  ],
+  "stats": {
+    "candidates": 600,
+    "scored": 518,
+    "passed": 290
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "_comment": "Trist Selector v4.0 — Price Action 100分制 (阿布价格行为学融入)。PA1-PA13 盘后评分 90分，PA14-PA15 执行门禁不占分。",
+  "price_action": {
+    "_section1": "一级：市场背景 (Market Background) — 20 分",
+    "PA1_trend_strength": {
+      "weight": 8,
+      "description": "趋势强度：EMA排列 + 均线缺口(≥20根K线不碰MA20) + 趋势K线占比",
+      "ma_bull_alignment": ["MA5>MA20>MA60"],
+      "ma_gap_bars_min": 20,
+      "trend_bar_ratio_min": 0.5
+    },
+    "PA2_range_detection": {
+      "weight": 6,
+      "description": "交易区间识别：K线重叠度 + 区间振幅 + 假突破特征",
+      "overlap_ratio_high": 0.70,
+      "overlap_ratio_medium": 0.50,
+      "range_amplitude_max": 0.08,
+      "breakout_fail_ratio": 0.80
+    },
+    "PA3_80pct_alignment": {
+      "weight": 6,
+      "description": "80%法则一致性：顺势操作+6分，逆势操作-6分（对抗惯性法则）。无法判断市场状态0分。",
+      "align_bonus": 6,
+      "counter_penalty": -6
+    },
+
+    "_section2": "二级：信号K线质量 (Signal Bar Quality) — 30 分",
+    "PA4_close_position": {
+      "weight": 10,
+      "description": "收盘位置：收盘价在K线顶部/底部1/3以内得分。极值收盘=满分。",
+      "extreme_threshold": 0.85,
+      "good_threshold": 0.67,
+      "fair_threshold": 0.50
+    },
+    "PA5_body_strength": {
+      "weight": 8,
+      "description": "实体强度：实体占总振幅比例 + 影线方向。实体饱满且影线朝趋势方向=满分。",
+      "strong_body_ratio": 0.60,
+      "good_body_ratio": 0.40,
+      "shadow_favor_max": 0.20
+    },
+    "PA6_pullback_confirm": {
+      "weight": 6,
+      "description": "回调确认：信号K线前至少2根反向K线，N连反向=回调充分。阿布规则：信号K线不应是第一根反向后的顺势K线。",
+      "min_opposing_bars": 2,
+      "optimal_opposing_bars": 3
+    },
+    "PA7_special_kline": {
+      "weight": 6,
+      "description": "特殊K线识别：Pin Bar(锤子/倒锤) / 内包线 / 外包线 / 强趋势K线。需结合背景判断。",
+      "pin_bar_body_shadow_ratio": 2.0,
+      "strong_trend_body_ratio": 0.70,
+      "strong_trend_shadow_max": 0.10
+    },
+
+    "_section3": "三级：入场结构 (Entry Setup) — 25 分",
+    "PA8_h_count": {
+      "weight": 10,
+      "description": "H1/H2/L1/L2计数：牛趋势中H2=满分10，H3/L3楔形=8，H1/L1=4（常是陷阱）。熊趋势反之。",
+      "H2_score": 10,
+      "H3_score": 8,
+      "H1_score": 4,
+      "H4_plus_score": 2,
+      "min_bars_for_count": 10
+    },
+    "PA9_wedge_pattern": {
+      "weight": 8,
+      "description": "楔形/旗形结构：三推楔形 + 嵌套结构 + 抛物线楔形（抢购/抛售高潮）。有效楔形需K线重叠。",
+      "min_pushes": 3,
+      "require_overlap": true,
+      "parabolic_acceleration": 0.3
+    },
+    "PA10_sr_confluence": {
+      "weight": 7,
+      "description": "支撑阻力共振：均线+前高/低+趋势线多重重合。共振越多=支撑/阻力越强。",
+      "confluence_excellent": 3,
+      "confluence_good": 2,
+      "confluence_min": 1,
+      "proximity_pct": 0.02
+    },
+
+    "_section4": "四级：辅助确认 (Auxiliary) — 15 分",
+    "PA11_volume": {
+      "weight": 5,
+      "description": "量能确认：量比0.5-3.0 + 换手2%-20% + 量价配合",
+      "min_vol_ratio": 0.5,
+      "max_vol_ratio": 3.0,
+      "min_turnover": 0.02,
+      "max_turnover": 0.20
+    },
+    "PA12_sector": {
+      "weight": 5,
+      "description": "主线/板块：板块排名前40% + 龙头地位确认",
+      "sector_rank_top_pct": 0.40,
+      "leader_top_n": 3,
+      "min_follower_count": 3
+    },
+    "PA13_emotion": {
+      "weight": 5,
+      "description": "情绪周期：冰点/分歧满分，一致半分，高潮剔除（禁区X12）",
+      "ice_limit_up_max": 30,
+      "ice_chain_max": 2,
+      "diverge_limit_up_max": 50,
+      "diverge_chain_max": 4,
+      "consensus_limit_up_max": 80,
+      "euphoria_limit_up_min": 80
+    }
+  },
+
+  "entry_gates": {
+    "_comment": "执行门禁（不占评分，必须通过才入场）— 阿布核心：信号K线≠入场K线",
+    "GATE_A_entry_trigger": {
+      "description": "入场K线触发：次日价格突破信号K线高/低点+1tick，挂止损单等待触发。未触发=不入场。"
+    },
+    "GATE_B_entry_quality": {
+      "description": "入场K线质量：入场后收盘确认方向，收盘仍在入场方向极端=持仓，收盘反向=减仓/离场。"
+    }
+  },
+
+  "strengthen": {
+    "_comment": "强化加分（维持原机制，0~30分）",
+    "B1_leader_rank": {
+      "weight": 2,
+      "description": "龙头辨识度：同板块近5日涨幅 Top 3",
+      "leader_top_n": 3
+    },
+    "B2_divergence": {
+      "weight": 6,
+      "description": "分歧转一致：前日放量阴线 + 今日缩量阳线反包",
+      "prev_day_vol_min_ratio": 1.2, "today_vol_max_ratio": 0.8
+    },
+    "B3_research": {
+      "weight": 2,
+      "description": "机构背书：近30日 >= 2家券商买入/增持",
+      "min_brokers": 2, "min_buy_pct": 60
+    },
+    "B4_pullback": {
+      "weight": 4,
+      "description": "合理回调：距20日高点回调 3%-12%",
+      "pullback_min_pct": 0.03, "pullback_max_pct": 0.12
+    },
+    "B5_earnings": {
+      "weight": 2,
+      "description": "盈利拐点：最新季报净利同比 > 30% 或扭亏",
+      "min_net_profit_growth": 0.30
+    },
+    "B6_weak_to_strong": {
+      "weight": 6,
+      "description": "弱转强：前3日缩量弱势，今日放量(>1.3x)收中阳(>3%)突破",
+      "lookback_days": 3, "max_ret_3d": 0.03, "min_ret_today": 0.03, "min_vol_ratio": 1.3
+    },
+    "B7_first_board": {
+      "weight": 3,
+      "description": "低位首板：近20日涨幅 < 20%，首板或二板",
+      "max_ret_20d": 0.20, "max_chain": 2
+    },
+    "B8_seat_match": {
+      "weight": 3,
+      "description": "游资席位共振：龙虎榜出现知名游资净买入",
+      "elite_seats": ["国泰君安上海江苏路","中信上海溧阳路","兴业陕西分公司","中信西安朱雀大街","浙商绍兴解放北路","华鑫上海红宝石路","国泰君安南京太平南路","招商福州六一中路"]
+    },
+    "B9_big_capital": {
+      "weight": 2,
+      "description": "大资金容量：日均成交 > 5亿，流通市值 > 50亿",
+      "min_daily_amount": 500000000, "min_float_cap": 5000000000
+    }
+  },
+
+  "external": {
+    "_comment": "外围市场风险因子 — 默认10分，触发条件扣分，最低0分",
+    "max_score": 10,
+    "min_score": 0,
+    "deductions": {
+      "smh_2d_drop_5pct": 3,
+      "smh_2d_drop_10pct": 5,
+      "nvda_single_day_drop_5pct": 3,
+      "three_or_more_drop_3pct": 3,
+      "consecutive_3d_decline": 3
+    },
+    "tracking_symbols": {
+      "NVDA": "AI算力总龙头",
+      "AMD": "数据中心GPU",
+      "MU": "存储半导体",
+      "AVGO": "网络芯片/AI ASIC",
+      "SMH": "半导体板块ETF",
+      "000660.KS": "SK Hynix HBM存储",
+      "8035.T": "Tokyo Electron 半导体设备"
+    }
+  },
+
+  "forbidden": {
+    "_comment": "禁区（13条，一票否决）",
+    "X1_chase_high": {
+      "description": "高位追涨：近5日涨幅 > 20%",
+      "max_pre5d_return": 0.20
+    },
+    "X2_liquidity": {
+      "description": "流动性差：日均换手 < 0.5%",
+      "min_daily_turnover": 0.005
+    },
+    "X3_manipulation": {
+      "description": "庄股疑似：连续3日振幅 < 1.5%",
+      "max_amplitude_3d": 0.015
+    },
+    "X4_bad_news": {
+      "description": "利空未消化：近3日有减持/监管函/业绩下修公告"
+    },
+    "X5_first_time": {
+      "description": "首次接触：不在历史交易池内",
+      "_note": "全市场筛选时标记提醒，交互模式强制确认"
+    },
+    "X6_market_crash": {
+      "description": "大盘系统性风险：上证近5日跌幅 > 5% 且 MA5 死叉 MA20",
+      "max_index_drop_5d": 0.05
+    },
+    "X7_limit_up_chase": {
+      "description": "涨停次日追入：前一日涨停收盘",
+      "_check": "prev_day_limit_up"
+    },
+    "X8_oversize": {
+      "description": "仓位超限：单票 > 可用资金 25%",
+      "max_single_position_pct": 0.25
+    },
+    "X9_death_cross": {
+      "description": "MA5 死叉 MA10",
+      "ma_fast": 5, "ma_slow": 10
+    },
+    "X10_lasa_seats": {
+      "description": "拉萨天团上榜：东方财富拉萨席位多席同时出现",
+      "lasa_keyword": "拉萨"
+    },
+    "X11_foshan_seats": {
+      "description": "佛山无影脚上榜：光大佛山绿景路/季华六路买入",
+      "foshan_keywords": ["佛山绿景路","季华六路","佛山祖庙路"]
+    },
+    "X12_euphoria": {
+      "description": "高潮期接盘：涨停 > 80家或全市场刷屏热议",
+      "max_limit_up_count": 80
+    },
+    "X15_external_risk": {
+      "description": "外围系统性风险：外围因子归零且行业相关性 > 0.5",
+      "external_score_threshold": 0,
+      "min_correlation": 0.5
+    }
+  },
+
+  "position": {
+    "_comment": "v4.0: 90分制映射 (72=原80, 54=原60)",
+    "full_score": 72,
+    "half_score": 54,
+    "max_single_pct": 0.25,
+    "full_buy_pct": 1.0,
+    "half_buy_pct": 0.5
+  },
+
+  "exit": {
+    "SL1_max_loss": -0.05,
+    "SL2_day2_loss_reduce": -0.03,
+    "SL3_single_day_crash": -0.07,
+    "TP1_breakeven_trigger": 0.05,
+    "TP2_lock_half_trigger": 0.10,
+    "TP3_trailing_trigger": 0.15,
+    "S3_max_hold_days": 7,
+    "S3_min_return_7d": 0.03
+  },
+
+  "discipline": {
+    "X13_stop_loss_day_lock": {
+      "description": "止损当天锁定：当日触发止损后不再进行任何交易",
+      "lock_hours": 24
+    },
+    "X14_big_loss_cooldown": {
+      "description": "单笔亏损5%冷却：账户单笔亏损达到5%后停止交易两天",
+      "loss_threshold": -0.05,
+      "cooldown_days": 2
+    }
+  },
+
+  "screener": {
+    "min_float_market_cap": 20,
+    "max_float_market_cap": 800,
+    "min_days_listed": 60,
+    "exclude_st": true,
+    "top_n_output": 5
+  }
+}

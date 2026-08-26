@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "stock": "603629",
+    "name": "利通电子",
+    "entry_date": "2026-08-20",
+    "entry_price": 131.24,
+    "entry_reason": "N字模型买点1: B回调末端长下影十字星止跌",
+    "position": "50% (半仓)",
+    "exit_date": "2026-08-21",
+    "exit_price": 124.0,
+    "exit_reason": "SL1触发(124.68)+MA10跌破, 按规则止损",
+    "pnl_pct": -5.52,
+    "pnl_account_pct": -2.76,
+    "holding_days": 1,
+    "model": "N字模型(趋势)",
+    "tags": [
+      "信号K线≠入场K线",
+      "仓位超标",
+      "B回调深度超预期",
+      "Gate-A未通过"
+    ],
+    "recorded": "2026-08-24 09:48"
+  }
+]

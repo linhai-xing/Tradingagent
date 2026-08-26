@@ -1,0 +1,157 @@
+{
+  "scan_date": "2026-07-24",
+  "summary": {
+    "trend_aligned": 25,
+    "signal_bars": 16,
+    "gate_a_triggered": 12,
+    "gate_b_confirmed": 7
+  },
+  "gate_b_confirmed": [
+    {
+      "ticker": "600000",
+      "name": "浦发银行",
+      "score": 56,
+      "price": 9.05,
+      "sig_type": "standard",
+      "sig_quality": "good",
+      "sig_direction": "bullish",
+      "trigger": 9.02,
+      "stop": 8.77,
+      "entry_close": 9.05,
+      "entry_pct": 0.33259423503327207
+    },
+    {
+      "ticker": "002479",
+      "name": "富春环保",
+      "score": 51,
+      "price": 5.29,
+      "sig_type": "inside_bar",
+      "sig_quality": "good",
+      "sig_direction": "bullish",
+      "trigger": 5.17,
+      "stop": 4.96,
+      "entry_close": 5.29,
+      "entry_pct": 2.321083172147004
+    },
+    {
+      "ticker": "002508",
+      "name": "老板电器",
+      "score": 51,
+      "price": 15.65,
+      "sig_type": "standard",
+      "sig_quality": "good",
+      "sig_direction": "bullish",
+      "trigger": 15.6,
+      "stop": 15.19,
+      "entry_close": 15.65,
+      "entry_pct": 0.32051282051282504
+    },
+    {
+      "ticker": "002981",
+      "name": "朝阳科技",
+      "score": 48,
+      "price": 22.19,
+      "sig_type": "standard",
+      "sig_quality": "good",
+      "sig_direction": "bullish",
+      "trigger": 21.71,
+      "stop": 20.9,
+      "entry_close": 22.19,
+      "entry_pct": 2.210962690004608
+    },
+    {
+      "ticker": "002616",
+      "name": "长青集团",
+      "score": 47,
+      "price": 4.8,
+      "sig_type": "inside_bar",
+      "sig_quality": "fair",
+      "sig_direction": "bullish",
+      "trigger": 4.73,
+      "stop": 4.62,
+      "entry_close": 4.8,
+      "entry_pct": 1.4799154334037925
+    },
+    {
+      "ticker": "002422",
+      "name": "科伦药业",
+      "score": 45,
+      "price": 51.35,
+      "sig_type": "standard",
+      "sig_quality": "good",
+      "sig_direction": "bullish",
+      "trigger": 50.01,
+      "stop": 46.27,
+      "entry_close": 51.35,
+      "entry_pct": 2.679464107178571
+    },
+    {
+      "ticker": "002412",
+      "name": "汉森制药",
+      "score": 0,
+      "price": 7.38,
+      "sig_type": "strong_trend",
+      "sig_quality": "excellent",
+      "sig_direction": "bullish",
+      "trigger": 6.72,
+      "stop": 6.06,
+      "entry_close": 7.38,
+      "entry_pct": 9.821428571428575
+    }
+  ],
+  "gate_a_only": [
+    {
+      "ticker": "002599",
+      "name": "盛通股份",
+      "score": 56,
+      "sig_quality": "fair"
+    },
+    {
+      "ticker": "003001",
+      "name": "中岩大地",
+      "score": 51,
+      "sig_quality": "good"
+    },
+    {
+      "ticker": "002860",
+      "name": "星帅尔",
+      "score": 42,
+      "sig_quality": "fair"
+    },
+    {
+      "ticker": "002415",
+      "name": "海康威视",
+      "score": 36,
+      "sig_quality": "good"
+    },
+    {
+      "ticker": "300105",
+      "name": "龙源技术",
+      "score": 0,
+      "sig_quality": "excellent"
+    }
+  ],
+  "waiting": [
+    {
+      "ticker": "002690",
+      "name": "美亚光电",
+      "score": 51,
+      "trigger": 14.51,
+      "sig_quality": "good"
+    },
+    {
+      "ticker": "002423",
+      "name": "中粮资本",
+      "score": 45,
+      "trigger": 9.24,
+      "sig_quality": "good"
+    },
+    {
+      "ticker": "002439",
+      "name": "启明星辰",
+      "score": 35,
+      "trigger": 14.34,
+      "sig_quality": "excellent"
+    }
+  ]
+}

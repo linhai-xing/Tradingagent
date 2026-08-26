@@ -1,0 +1,289 @@
+{
+  "date": "2026-06-29T17:03:28.774939",
+  "sector": "CPO+Semiconductor",
+  "top10": [
+    {
+      "ticker": "688256",
+      "name": "寒武纪",
+      "price": 1482.0,
+      "score": 125,
+      "change_today": 1.65,
+      "ma5": 1462.2,
+      "ma10": 1423.744,
+      "ma20": 1351.1255,
+      "ret5d": 0.01716552618755096,
+      "pullback": 0.03766233766233766,
+      "turnover": 2.41,
+      "vol_ratio": 1.06,
+      "amplitude": 8.36,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_pullback": true
+      },
+      "bonus": 15,
+      "near_ma10": true,
+      "is_leader": true,
+      "vetoes": [],
+      "signals": [
+        "机构洗盘V转"
+      ],
+      "position": "full"
+    },
+    {
+      "ticker": "300502",
+      "name": "新易盛",
+      "price": 556.96,
+      "score": 115,
+      "change_today": -1.6,
+      "ma5": 568.15,
+      "ma10": 564.9570000000001,
+      "ma20": 548.688447508,
+      "ret5d": -0.03967446592065105,
+      "pullback": 0.08814669286182043,
+      "turnover": 4.13,
+      "vol_ratio": 0.99,
+      "amplitude": 9.15,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_pullback": true
+      },
+      "bonus": 15,
+      "near_ma10": false,
+      "is_leader": true,
+      "vetoes": [],
+      "signals": [
+        "机构洗盘V转"
+      ],
+      "position": "full"
+    },
+    {
+      "ticker": "002049",
+      "name": "紫光国微",
+      "price": 85.35,
+      "score": 115,
+      "change_today": 1.63,
+      "ma5": 84.476,
+      "ma10": 81.62,
+      "ma20": 77.8995,
+      "ret5d": 0.04136163982430463,
+      "pullback": 0.03982450219372265,
+      "turnover": 5.51,
+      "vol_ratio": 0.99,
+      "amplitude": 7.22,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_pullback": true
+      },
+      "bonus": 5,
+      "near_ma10": true,
+      "is_leader": false,
+      "vetoes": [],
+      "signals": [
+        "机构洗盘V转"
+      ],
+      "position": "full"
+    },
+    {
+      "ticker": "300661",
+      "name": "圣邦股份",
+      "price": 133.6,
+      "score": 115,
+      "change_today": 1.56,
+      "ma5": 135.614,
+      "ma10": 132.353,
+      "ma20": 120.07650000000001,
+      "ret5d": -0.023463197134712455,
+      "pullback": 0.06573426573426577,
+      "turnover": 3.57,
+      "vol_ratio": 1.16,
+      "amplitude": 11.33,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_pullback": true
+      },
+      "bonus": 5,
+      "near_ma10": true,
+      "is_leader": false,
+      "vetoes": [],
+      "signals": [
+        "机构洗盘V转",
+        "机构洗盘V转"
+      ],
+      "position": "full"
+    },
+    {
+      "ticker": "002156",
+      "name": "通富微电",
+      "price": 72.58,
+      "score": 115,
+      "change_today": 1.37,
+      "ma5": 73.01,
+      "ma10": 69.626,
+      "ma20": 66.7545,
+      "ret5d": 0.01866666666666661,
+      "pullback": 0.08566389518770468,
+      "turnover": 11.2,
+      "vol_ratio": 0.89,
+      "amplitude": 11.09,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_pullback": true
+      },
+      "bonus": 5,
+      "near_ma10": true,
+      "is_leader": false,
+      "vetoes": [],
+      "signals": [
+        "机构洗盘V转"
+      ],
+      "position": "full"
+    },
+    {
+      "ticker": "603290",
+      "name": "斯达半导",
+      "price": 139.04,
+      "score": 115,
+      "change_today": 3.87,
+      "ma5": 137.824,
+      "ma10": 132.73300512,
+      "ma20": 122.881177485,
+      "ret5d": 0.02544435430341463,
+      "pullback": 0.033101529902642694,
+      "turnover": 6.98,
+      "vol_ratio": 1.27,
+      "amplitude": 10.62,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_pullback": true
+      },
+      "bonus": 5,
+      "near_ma10": true,
+      "is_leader": false,
+      "vetoes": [],
+      "signals": [
+        "机构洗盘V转"
+      ],
+      "position": "full"
+    },
+    {
+      "ticker": "688187",
+      "name": "时代电气",
+      "price": 62.26,
+      "score": 115,
+      "change_today": 4.41,
+      "ma5": 61.038,
+      "ma10": 59.541,
+      "ma20": 57.7085,
+      "ret5d": 0.029771749917300694,
+      "pullback": 0.059516616314199466,
+      "turnover": 3.4,
+      "vol_ratio": 1.52,
+      "amplitude": 7.88,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_pullback": true
+      },
+      "bonus": 5,
+      "near_ma10": true,
+      "is_leader": false,
+      "vetoes": [],
+      "signals": [],
+      "position": "full"
+    },
+    {
+      "ticker": "002281",
+      "name": "光迅科技",
+      "price": 235.94,
+      "score": 105,
+      "change_today": -1.83,
+      "ma5": 254.2,
+      "ma10": 251.07600000000002,
+      "ma20": 231.62449999999998,
+      "ret5d": -0.14539263981454642,
+      "pullback": 0.15433691756272402,
+      "turnover": 6.8,
+      "vol_ratio": 1.0,
+      "amplitude": 9.96,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_pullback": true
+      },
+      "bonus": 5,
+      "near_ma10": false,
+      "is_leader": false,
+      "vetoes": [],
+      "signals": [],
+      "position": "full"
+    },
+    {
+      "ticker": "600584",
+      "name": "长电科技",
+      "price": 103.25,
+      "score": 105,
+      "change_today": 2.34,
+      "ma5": 97.82000000000001,
+      "ma10": 89.60239298500001,
+      "ma20": 82.12877798500001,
+      "ret5d": 0.13175498395970786,
+      "pullback": 0.05561145156864537,
+      "turnover": 18.23,
+      "vol_ratio": 1.39,
+      "amplitude": 13.28,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_pullback": true
+      },
+      "bonus": 5,
+      "near_ma10": false,
+      "is_leader": false,
+      "vetoes": [],
+      "signals": [],
+      "position": "full"
+    },
+    {
+      "ticker": "002185",
+      "name": "华天科技",
+      "price": 21.92,
+      "score": 105,
+      "change_today": -2.84,
+      "ma5": 21.479999999999997,
+      "ma10": 20.145,
+      "ma20": 18.946259410000003,
+      "ret5d": 0.07240704500978468,
+      "pullback": 0.08130762782900242,
+      "turnover": 18.33,
+      "vol_ratio": 1.09,
+      "amplitude": 12.94,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_pullback": true
+      },
+      "bonus": 5,
+      "near_ma10": false,
+      "is_leader": false,
+      "vetoes": [],
+      "signals": [],
+      "position": "full"
+    }
+  ]
+}

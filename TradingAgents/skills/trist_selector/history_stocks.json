@@ -1,0 +1,24 @@
+{
+  "stocks": [
+    {"ticker": "600522", "name": "中天科技", "trades": 3, "net_pnl": 5811.66, "win_rate": 0.67},
+    {"ticker": "600353", "name": "旭光电子", "trades": 1, "net_pnl": 5560.28, "win_rate": 1.00},
+    {"ticker": "603256", "name": "宏和科技", "trades": 8, "net_pnl": 3001.34, "win_rate": 0.62},
+    {"ticker": "601869", "name": "长飞光纤", "trades": 2, "net_pnl": 2150.53, "win_rate": 0.50},
+    {"ticker": "002126", "name": "金海高科", "trades": 1, "net_pnl": 1859.93, "win_rate": 1.00},
+    {"ticker": "600186", "name": "莲花控股", "trades": 1, "net_pnl": -113.71, "win_rate": 0.00},
+    {"ticker": "002552", "name": "宝鼎科技", "trades": 2, "net_pnl": -886.10, "win_rate": 0.00, "last_trade": "2026-08-17 买入60.40 → 08-18 止损~58.00 (-4.0%)，日内冲高62→回落58，触发SL6回撤熔断反思"},
+    {"ticker": "603316", "name": "诚邦股份", "trades": 1, "net_pnl": -798.23, "win_rate": 0.00},
+    {"ticker": "605580", "name": "恒盛能源", "trades": 1, "net_pnl": -1098.71, "win_rate": 0.00},
+    {"ticker": "600487", "name": "亨通光电", "trades": 1, "net_pnl": -1231.26, "win_rate": 0.00},
+    {"ticker": "603985", "name": "恒润股份", "trades": 6, "net_pnl": -1250.50, "win_rate": 0.17},
+    {"ticker": "601138", "name": "工业富联", "trades": 1, "net_pnl": -1814.79, "win_rate": 0.00},
+    {"ticker": "605358", "name": "立昂微", "trades": 1, "net_pnl": -2047.33, "win_rate": 0.00},
+    {"ticker": "600726", "name": "华电辽能", "trades": 1, "net_pnl": -3359.27, "win_rate": 0.00},
+    {"ticker": "002407", "name": "多氟多", "trades": 2, "net_pnl": -5251.92, "win_rate": 0.00},
+    {"ticker": "002428", "name": "云南锗业", "trades": 4, "net_pnl": -10568.00, "win_rate": 0.25},
+    {"ticker": "002369", "name": "胜通能源", "trades": 1, "net_pnl": 0, "win_rate": 0.00, "note": "未匹配到卖出"}
+  ],
+  "last_updated": "2026-08-18",
+  "total_trades": 36,
+  "total_pnl": -10036.08
+}

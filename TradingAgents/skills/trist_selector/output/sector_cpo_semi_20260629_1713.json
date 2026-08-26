@@ -1,0 +1,303 @@
+{
+  "date": "2026-06-29T17:13:03.536416",
+  "observed": 66,
+  "passed": 32,
+  "top10": [
+    {
+      "ticker": "002049",
+      "price": 85.35,
+      "score": 135,
+      "change_today": 1.63,
+      "ma5": 84.48,
+      "ma10": 81.62,
+      "ma20": 77.9,
+      "ret5d": 0.041,
+      "pullback": 0.04,
+      "turnover": 5.5,
+      "vol_ratio": 0.99,
+      "amplitude": 7.22,
+      "core": {
+        "C1趋势": true,
+        "C2非追高": true,
+        "C3量能": true,
+        "C4回调到位": true
+      },
+      "bonus": 35,
+      "is_leader": true,
+      "star_warning": false,
+      "sectors": [
+        "CPO/半导体池"
+      ],
+      "signals": [
+        "机构洗盘V转"
+      ],
+      "position": "full"
+    },
+    {
+      "ticker": "688256",
+      "price": 1482.0,
+      "score": 135,
+      "change_today": 1.65,
+      "ma5": 1462.2,
+      "ma10": 1423.74,
+      "ma20": 1351.13,
+      "ret5d": 0.017,
+      "pullback": 0.04,
+      "turnover": 2.4,
+      "vol_ratio": 1.06,
+      "amplitude": 8.36,
+      "core": {
+        "C1趋势": true,
+        "C2非追高": true,
+        "C3量能": true,
+        "C4回调到位": true
+      },
+      "bonus": 35,
+      "is_leader": true,
+      "star_warning": true,
+      "sectors": [
+        "CPO/半导体池"
+      ],
+      "signals": [
+        "机构洗盘V转"
+      ],
+      "position": "full"
+    },
+    {
+      "ticker": "603290",
+      "price": 139.04,
+      "score": 120,
+      "change_today": 3.87,
+      "ma5": 137.82,
+      "ma10": 132.73,
+      "ma20": 122.88,
+      "ret5d": 0.025,
+      "pullback": 0.03,
+      "turnover": 7.0,
+      "vol_ratio": 1.27,
+      "amplitude": 10.62,
+      "core": {
+        "C1趋势": true,
+        "C2非追高": true,
+        "C3量能": true,
+        "C4回调到位": true
+      },
+      "bonus": 20,
+      "is_leader": false,
+      "star_warning": false,
+      "sectors": [
+        "CPO/半导体池"
+      ],
+      "signals": [
+        "机构洗盘V转"
+      ],
+      "position": "full"
+    },
+    {
+      "ticker": "300502",
+      "price": 556.96,
+      "score": 115,
+      "change_today": -1.6,
+      "ma5": 568.15,
+      "ma10": 564.96,
+      "ma20": 548.69,
+      "ret5d": -0.04,
+      "pullback": 0.09,
+      "turnover": 4.1,
+      "vol_ratio": 0.99,
+      "amplitude": 9.15,
+      "core": {
+        "C1趋势": true,
+        "C2非追高": true,
+        "C3量能": true,
+        "C4回调到位": true
+      },
+      "bonus": 15,
+      "is_leader": true,
+      "star_warning": false,
+      "sectors": [
+        "CPO/半导体池"
+      ],
+      "signals": [
+        "机构洗盘V转"
+      ],
+      "position": "full"
+    },
+    {
+      "ticker": "688048",
+      "price": 418.33,
+      "score": 110,
+      "change_today": 5.64,
+      "ma5": 413.64,
+      "ma10": 397.89,
+      "ma20": 377.23,
+      "ret5d": 0.014,
+      "pullback": 0.07,
+      "turnover": 7.2,
+      "vol_ratio": 0.89,
+      "amplitude": 11.4,
+      "core": {
+        "C1趋势": true,
+        "C2非追高": true,
+        "C3量能": true,
+        "C4回调到位": true
+      },
+      "bonus": 10,
+      "is_leader": false,
+      "star_warning": true,
+      "sectors": [
+        "CPO/半导体池"
+      ],
+      "signals": [
+        "机构洗盘V转"
+      ],
+      "position": "full"
+    },
+    {
+      "ticker": "688981",
+      "price": 151.0,
+      "score": 110,
+      "change_today": 1.51,
+      "ma5": 149.97,
+      "ma10": 143.15,
+      "ma20": 135.98,
+      "ret5d": 0.037,
+      "pullback": 0.05,
+      "turnover": 5.1,
+      "vol_ratio": 0.91,
+      "amplitude": 8.06,
+      "core": {
+        "C1趋势": true,
+        "C2非追高": true,
+        "C3量能": true,
+        "C4回调到位": true
+      },
+      "bonus": 10,
+      "is_leader": false,
+      "star_warning": true,
+      "sectors": [
+        "CPO/半导体池"
+      ],
+      "signals": [
+        "机构洗盘V转"
+      ],
+      "position": "full"
+    },
+    {
+      "ticker": "002079",
+      "price": 14.45,
+      "score": 110,
+      "change_today": 1.9,
+      "ma5": 14.31,
+      "ma10": 13.8,
+      "ma20": 12.9,
+      "ret5d": 0.034,
+      "pullback": 0.04,
+      "turnover": 9.2,
+      "vol_ratio": 1.12,
+      "amplitude": 8.82,
+      "core": {
+        "C1趋势": true,
+        "C2非追高": true,
+        "C3量能": true,
+        "C4回调到位": true
+      },
+      "bonus": 10,
+      "is_leader": false,
+      "star_warning": false,
+      "sectors": [
+        "CPO/半导体池"
+      ],
+      "signals": [],
+      "position": "full"
+    },
+    {
+      "ticker": "688187",
+      "price": 62.26,
+      "score": 110,
+      "change_today": 4.41,
+      "ma5": 61.04,
+      "ma10": 59.54,
+      "ma20": 57.71,
+      "ret5d": 0.03,
+      "pullback": 0.06,
+      "turnover": 3.4,
+      "vol_ratio": 1.52,
+      "amplitude": 7.88,
+      "core": {
+        "C1趋势": true,
+        "C2非追高": true,
+        "C3量能": true,
+        "C4回调到位": true
+      },
+      "bonus": 10,
+      "is_leader": false,
+      "star_warning": true,
+      "sectors": [
+        "CPO/半导体池"
+      ],
+      "signals": [],
+      "position": "full"
+    },
+    {
+      "ticker": "002156",
+      "price": 72.58,
+      "score": 110,
+      "change_today": 1.37,
+      "ma5": 73.01,
+      "ma10": 69.63,
+      "ma20": 66.75,
+      "ret5d": 0.019,
+      "pullback": 0.09,
+      "turnover": 11.2,
+      "vol_ratio": 0.89,
+      "amplitude": 11.09,
+      "core": {
+        "C1趋势": true,
+        "C2非追高": true,
+        "C3量能": true,
+        "C4回调到位": true
+      },
+      "bonus": 10,
+      "is_leader": false,
+      "star_warning": false,
+      "sectors": [
+        "CPO/半导体池"
+      ],
+      "signals": [
+        "机构洗盘V转"
+      ],
+      "position": "full"
+    },
+    {
+      "ticker": "300661",
+      "price": 133.6,
+      "score": 110,
+      "change_today": 1.56,
+      "ma5": 135.61,
+      "ma10": 132.35,
+      "ma20": 120.08,
+      "ret5d": -0.023,
+      "pullback": 0.07,
+      "turnover": 3.6,
+      "vol_ratio": 1.16,
+      "amplitude": 11.33,
+      "core": {
+        "C1趋势": true,
+        "C2非追高": true,
+        "C3量能": true,
+        "C4回调到位": true
+      },
+      "bonus": 10,
+      "is_leader": false,
+      "star_warning": false,
+      "sectors": [
+        "CPO/半导体池"
+      ],
+      "signals": [
+        "机构洗盘V转"
+      ],
+      "position": "full"
+    }
+  ]
+}

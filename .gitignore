@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[codz]
+*.py.class
+*.so
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log

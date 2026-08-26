@@ -1,0 +1,337 @@
+{
+  "date": "2026-06-26T14:43:04.918312",
+  "top10": [
+    {
+      "rank": 1,
+      "ticker": "159185",
+      "name": "鹏华中证港股通信息技术综合ETF",
+      "price": 1.281,
+      "score": 135,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 2,
+      "ticker": "159198",
+      "name": "富国中证港股通信息技术综合ETF",
+      "price": 1.445,
+      "score": 135,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 3,
+      "ticker": "159196",
+      "name": "易方达中证港股通信息技术综合ETF",
+      "price": 1.436,
+      "score": 135,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 4,
+      "ticker": "301682",
+      "name": "宏明电子",
+      "price": 188.88,
+      "score": 120,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": false,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": true,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 5,
+      "ticker": "159157",
+      "name": "天弘中证工业有色金属主题ETF",
+      "price": 0.877,
+      "score": 120,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": false,
+        "C2_no_chase": true,
+        "C3_volume": true,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": true,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 6,
+      "ticker": "159012",
+      "name": "鹏华科创创业50ETF",
+      "price": 1.185,
+      "score": 110,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": false,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "MA5支撑确认"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 7,
+      "ticker": "159016",
+      "name": "广发中证证券公司30ETF",
+      "price": 1.078,
+      "score": 110,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": false,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 8,
+      "ticker": "159013",
+      "name": "大成中证工业互联网主题ETF",
+      "price": 1.217,
+      "score": 110,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": false,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 9,
+      "ticker": "159178",
+      "name": "汇添富国证消费电子主题ETF",
+      "price": 1.444,
+      "score": 110,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": false,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "放量突破",
+        "强势突破"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    },
+    {
+      "rank": 10,
+      "ticker": "159022",
+      "name": "富国中证科创创业人工智能ETF",
+      "price": 1.286,
+      "score": 110,
+      "position": "full",
+      "position_pct": 1.0,
+      "core": {
+        "C1_trend": true,
+        "C2_no_chase": true,
+        "C3_volume": false,
+        "C4_sector": true,
+        "C5_emotion": true,
+        "C6_leader": false
+      },
+      "bonus": {
+        "B1_leader_rank": false,
+        "B2_divergence": false,
+        "B3_research": false,
+        "B4_pullback": false,
+        "B5_earnings": false,
+        "B6_weak_to_strong": false,
+        "B7_first_board": true,
+        "B8_seat_match": false,
+        "B9_big_capital": false
+      },
+      "signals": [
+        "尾盘缩量企稳"
+      ],
+      "emotion": "ice",
+      "leader": "laggard",
+      "vetoed": false
+    }
+  ],
+  "stats": {
+    "candidates": 200,
+    "scored": 85,
+    "passed": 44
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "date": "2026-08-04",
+  "version": "v4.2-price-action",
+  "top5": [],
+  "stats": {
+    "total_candidates": 299,
+    "passed": 0,
+    "vetoed": 61,
+    "top_score": 0
+  }
+}
